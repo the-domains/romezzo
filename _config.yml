@@ -1,0 +1,23 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.8659833953715861
+  lightness: 0.7891269626561552
+  saturation: 0.13557735620997846
+  rhythmicContrast: 0.6224794609006494
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: romezzo
+layout_spectrum: 0.36702735163271427
+typography_spectrum: 0.48224906786344945
+content: []
+github: true
