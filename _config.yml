@@ -19,7 +19,32 @@ colors:
 name: romezzo
 layout_spectrum: 0.36702735163271427
 typography_spectrum: 0.48224906786344945
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccbe166b-d0c4-4ebf-973d-2c48d3c521a9.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccbe166b-d0c4-4ebf-973d-2c48d3c521a9.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 title: roksolana chraniuk - contralto
 description: artist website
